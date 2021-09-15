@@ -19,7 +19,7 @@
 <body>
     <div class="container">
       <header class="header d-flex justify-content-between align-items-center">
-        <h3 class="text-muted"><a href="{{ route('home') }}" class="no-link">Winkel van Scouting Raamsdonksveer</a></h3>
+        <h3 class="text-muted"><a href="{{ route('home') }}" class="no-link">4Shop - Mehmed</a></h3>
         <a href="{{ route('cart') }}"><img class="cart" src="{{ url('img/cart.png') }}" alt=""></a>
       </header>
 
@@ -43,7 +43,7 @@
       </main>
 
       <footer class="footer">
-        <p><strong>Mail bij vragen: <a href="mailto:winkelbeheer@scoutingrveer.nl">winkelbeheer@scoutingrveer.nl</a></strong> &middot; S.B.B.S. namens Scouting Raamsdonksveer, Kerklaan 22 4942AR Raamsdonksveer, KvK: 41100325, tel: 0162769096.</p>
+        <p><strong>Mail bij vragen: <a href="mailto:winkelbeheer@scoutingrveer.nl">winkelbeheer@scoutingrveer.nl</a></strong> &middot; S.B.B.S. namens Scouting Raamsdonksveer, Aristoteleslaan 76 5613LA Raamsdonksveer, KvK: 41100325, tel: 0162769096.</p>
       </footer>
 
     </div>
