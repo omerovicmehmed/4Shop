@@ -102,6 +102,11 @@ span.collapsing{
 	color: white !important;
 }
 
+.product-title{
+	display: flex;
+	column-gap: 5px;
+}
+
 @media (max-width: 576px) {
 	h1{
 		font-size: 8vw;
